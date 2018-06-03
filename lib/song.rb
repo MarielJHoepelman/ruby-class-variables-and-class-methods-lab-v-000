@@ -6,5 +6,6 @@ class Sobg
     @@count += 1
     @name = name
     @genre = genre
-  end  
+    @artist = artist
+  end
 end
