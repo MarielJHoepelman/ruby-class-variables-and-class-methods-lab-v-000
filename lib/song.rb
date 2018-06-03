@@ -48,6 +48,4 @@ class Song
     end
     artist_count[artist]
   end
-
-
 end
